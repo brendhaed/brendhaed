@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋!</h2>
+<h2 align="left">Olá! Me chamo Brendha 👋</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+###
 ###
 
 <div align="left">
