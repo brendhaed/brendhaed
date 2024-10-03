@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Me chamo Brendha👋 e sou Desenvolvedora Front-End</h2>
+<h2 align="left">👋Olá! Seja bem-vindo(a) ao meu GitHub! Me chamo Brendha, sou estudante de ADS e Desenvolvedora Front-End</h2>
 
 ###
 
@@ -7,24 +7,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brendhaed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h2 align="left">💻 Tecnologias mais utilizadas: </h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+   <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <img width="12" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+ <img width="12" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
 </div>
 
 ###
 
 <div align="center">
+<h2 align="left">Contato: </h2>
   
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@brendhaed/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendhaed)
