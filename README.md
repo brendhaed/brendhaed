@@ -21,6 +21,8 @@
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <img width="12" />
 </div>
 
 <div align="center">
@@ -28,13 +30,10 @@
  <img width="12" />
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
   <img width="12" />
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-  <img width="12" />
 <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
 </div>
 
 ###
