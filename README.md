@@ -13,9 +13,11 @@
   <img width="12" />
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <img width="12" />
