@@ -9,10 +9,6 @@
 
 <h2 align="left">💻🚀 Tecnologias mais utilizadas: </h2>
 <div align="center">
-   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="50" height="50" />
-  <img width="12" />
- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="50" height="50" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
@@ -20,6 +16,12 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="50" height="50" />
+  <img width="12" />
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="50" height="50" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <img width="12" />
