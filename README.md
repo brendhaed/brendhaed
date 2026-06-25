@@ -33,11 +33,6 @@
     <a href="https://crud-series-next.vercel.app/">🔗 Ver projeto</a>
   </li>
 
-  <li>
-    <b> Landing Page escola Tech </b><br>
-    Projeto feito em Next <br>
-    <a href="https://landing-page-school-tech.vercel.app/">🔗 Ver projeto</a>
-  </li>
 
 </ul>
 
