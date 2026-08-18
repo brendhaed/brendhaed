@@ -22,6 +22,11 @@
   <b>Backend & Outros:</b><br>
   <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,git" />
 </p>
+
+<p align="center">
+  <b>Desenvolvimento Mobile</b><br>
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
 </div>
 
 <h2 align="left">📌 Projetos em destaque</h2>
