@@ -1,48 +1,35 @@
-<h2 align="left">👋 Olá! Eu sou a Brendha</h2>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right"/>
 
-<p>
-💻 Desenvolvedora Front-End focada em React e Next.js<br>
-🎯 Buscando minha primeira oportunidade como Estágio/Dev Júnior<br>
-🚀 Construindo projetos práticos com foco em UI moderna e experiência do usuário
-</p>
+# Brendha E. Rodrigues
+👩‍💻 Desenvolvedora Front-End | React • Next.js • Typescript • Javascript • APIs REST <br>
+<br>
+Desenvolvedora em formação, atualmente no 4º semestre de ADS pela PUCRS, focada em criar soluções modernas, escaláveis e de fácil manutenção, aplicando boas práticas de desenvolvimento.
+---
 
+### 💻🚀 Tecnologias & Ferramentas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brendhaed&layout=compact&theme=cobalt" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=brendhaed&theme=cobalt" width="350"/>
+
+  <p align="left">
+    Frontend: <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  </p>
+
+  <p align="left">
+    Backend & Outros: <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,git" />
+  </p>
+
+  <p align="left">
+    Desenvolvimento Mobile: <br>
+    <img src="https://skillicons.dev/icons?i=react,flutter" />
+  </p>
+
 </div>
 
-<h2 align="left">💻🚀 Tecnologias mais utilizadas: </h2>
-<div align="center">
-  <p align="center">
-  <b>Frontend:</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
+---
 
+### ✉️Contato:
 <p align="center">
-  <b>Backend & Outros:</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,git" />
-</p>
-
-<p align="center">
-  <b>Desenvolvimento Mobile</b><br>
-  <img src="https://skillicons.dev/icons?i=react,flutter" />
-</p>
-</div>
-
-<h2 align="left">📌 Projetos em destaque</h2>
-
-<ul>
-  <li>
-    <b>📽️ CRUD de Séries em Next.js </b><br>
-    Projeto de gerenciamento de séries assistidas, feita com Next para a Disciplina de Desenvolvimento Frontend do curso de Análise e Desenvolvimento de Sistemas<br>
-    <a href="https://crud-series-next.vercel.app/">🔗 Ver projeto</a>
-  </li>
-
-
-</ul>
-
-<h2 align="left">✉️Contato: </h2>
-  <p align="center">
   <a href="https://www.linkedin.com/in/brendhaed">
   <img src="https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
