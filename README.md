@@ -4,6 +4,7 @@
 👩‍💻 Desenvolvedora Front-End | React • Next.js • Typescript • Javascript • APIs REST <br>
 <br>
 <p> Desenvolvedora em formação, atualmente no 4º semestre de ADS pela PUCRS, focada em criar soluções modernas, escaláveis e de fácil manutenção, aplicando boas práticas de desenvolvimento. </p>
+
 ---
 
 ### 💻🚀 Tecnologias & Ferramentas
